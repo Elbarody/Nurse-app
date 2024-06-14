@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "472378030581",
+    "project_id": "nurse-master",
+    "storage_bucket": "nurse-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472378030581:android:0dfe0b4e838f844a75c8bc",
+        "android_client_info": {
+          "package_name": "com.example.personal_nursing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472378030581-mgutfhljlh2kc8sgu9fqlmud4nirhvp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personal_nursing",
+            "certificate_hash": "2aed4a3b12c46fae60f8887bdc8895b4c13ca275"
+          }
+        },
+        {
+          "client_id": "472378030581-1laftupf9khr2jvqt4g5djgd8f9ndg75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCymd2CQ84FpoVOYUSWHfD0M4BFtd5wsA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472378030581-1laftupf9khr2jvqt4g5djgd8f9ndg75.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472378030581-s56sj4mv1204cr21u6cmkitmgfb355io.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.personalNursing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
